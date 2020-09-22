@@ -119,7 +119,7 @@ body {
 .landing--page {
   background-image: url("https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_1349,h_760/v1578357180/assets/69/908bc0-7167-40d0-b046-af52170801f5/original/Product-Masthead-Desktop_2.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height: 100vh;
   width: 100vw;
   padding: 5% 8% 0 8%;
